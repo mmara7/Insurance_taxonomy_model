@@ -11,8 +11,6 @@ To make the classification work, the main way to do that is by using similarity 
 
 Project structure:
 
-config/setting.py: Contains model configuration and device settings.
-
 code/data_processor.py: Handles text cleaning and feature extraction.
 
 core/embedding_generator.py: Generates semantic embeddings for the company descriptions and taxonomy labels.
